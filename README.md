@@ -9,7 +9,7 @@ LeaderBoard is a simple web application that allows users to create and view a l
 To get started, clone the repository and install the dependencies.
 
 ```
-git clone
+git clone https://rhushi1998.github.io/leaderBoard/
 cd LeaderBoard
 npm install
 ```
